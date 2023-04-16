@@ -1,0 +1,19 @@
+<company>
+        <employee>
+			<name>Shubham Kale</name>
+			<phone>12345668</phone>
+			<gender>Male</gender>
+	  </employee>
+
+        <employee>
+			<name>ashwini</name>
+			<phone>12334278</phone>
+			<gender>Male</gender>
+	  </employee>
+
+        <employee>
+			<name>raj</name>
+			<phone>488229290</phone>
+			<gender>Male</gender>
+	  </employee>
+</company>

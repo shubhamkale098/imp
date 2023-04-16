@@ -1,0 +1,24 @@
+{ "emp_details": 
+        [{
+   "Name": "Shubham",
+    "Place": "Mumbai",
+    "Phone":983525254
+    
+    },{
+   "Name": "Rahul",
+    "Place": "Tamil nadu",
+    "Phone":7852352552
+   },
+   {
+   "Name": "Ashwini",
+    "Place": "Surat",
+    "Phone":484352355
+   },
+   {
+   "Name": "Raj",
+    "Place": "Aurngabad",
+    "Phone":235252634
+   }
+    
+    ]
+ }
